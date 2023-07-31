@@ -1,4 +1,4 @@
-Simple Recipe Website
+# Simple Recipe Website
 
 This project is to apply all the HTML knowledge I have acquired through The Odin Project's Foundations Course to build a basic recipe website. The website will consist of a main index page which will have links to a few recipes.
 
@@ -11,3 +11,4 @@ In this project, I have demonstrated the following HTML skills:
 - Creating links to other pages to my own websites
 - Displaying images on webpages using HTML
 
+Live site: https://quandaworld.github.io/odin-recipes/
