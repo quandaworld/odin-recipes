@@ -11,4 +11,3 @@ In this project, I have demonstrated the following HTML skills:
 - Creating links to other pages to my own websites
 - Displaying images on webpages using HTML
 
-Live site: https://quandaworld.github.io/odin-recipes/
